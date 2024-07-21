@@ -1,0 +1,15 @@
+# pip install:
+streamlit
+langchain_community
+faiss-cpu
+beautifulsoup4
+
+graphviz
+matplotlib
+numpy
+pandas
+plotly
+streamlit
+streamlit_timeline
+streamlit-player
+typing-extensions
